@@ -1,61 +1,61 @@
 const data = [
   {
     word: 'poverty',
-    prompt: 'Many families are still trapped in ___.',
+    prompt: 'They launched a program that helps families escape ___.',
     answer: 'poverty',
     hint: 'extreme lack of money'
   },
   {
     word: 'to advocate',
-    prompt: 'She ___ for better access to education.',
+    prompt: 'She’s someone who ___ for equal education rights.',
     answer: 'advocates',
     hint: 'supports a cause'
   },
   {
     word: 'activist',
-    prompt: 'The ___ gave a speech about climate justice.',
+    prompt: 'The ___ who organized the march was interviewed on TV.',
     answer: 'activist',
     hint: 'social campaigner'
   },
   {
     word: 'refugee',
-    prompt: 'The ___ was welcomed into the community.',
+    prompt: 'They built a center where every ___ receives support.',
     answer: 'refugee',
     hint: 'forced to flee'
   },
   {
     word: 'petition',
-    prompt: 'They’ve launched a ___ to ban plastic bags.',
+    prompt: 'We signed a ___ that demanded cleaner air.',
     answer: 'petition',
     hint: 'formal request'
   },
   {
     word: 'sustainability',
-    prompt: 'The city promotes ___ in transport and housing.',
+    prompt: 'They promote policies which support ___.',
     answer: 'sustainability',
     hint: 'eco-friendly use'
   },
   {
     word: 'empathy',
-    prompt: 'Good leaders show ___ toward others.',
+    prompt: 'Empathy, which helps build trust, is vital in leadership.',
     answer: 'empathy',
     hint: 'understanding feelings'
   },
   {
     word: 'to volunteer',
-    prompt: 'He has ___ at the shelter every weekend.',
+    prompt: 'He’s the guy who has ___ at that shelter for years.',
     answer: 'volunteered',
     hint: 'offered free help'
   },
   {
     word: 'discrimination',
-    prompt: 'The law protects workers from ___.',
+    prompt: 'They passed laws that protect workers from ___.',
     answer: 'discrimination',
     hint: 'unfair treatment'
   },
   {
     word: 'inequality',
-    prompt: 'Economic ___ has grown in recent years.',
+    prompt: 'We discussed economic ___, which affects millions.',
     answer: 'inequality',
     hint: 'unfair difference'
   }
